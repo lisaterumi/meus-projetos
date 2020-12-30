@@ -6,9 +6,9 @@ Espero que gostem e fiquem a vontade para entrar em contato comigo :)
 
 Minha página no medium: https://lisa-terumi.medium.com/
 
-1. Jogos em Python
+#### Jogos em Python
 
-1.1 [Jogo da Cobra] (https://github.com/lisaterumi/jogo-cobra-python)
+- [Jogo da Cobra] (https://github.com/lisaterumi/jogo-cobra-python)
 
 - [Jogo de Adivinhação] (https://github.com/lisaterumi/jogo-adivinhacao-python)
 
