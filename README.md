@@ -22,11 +22,11 @@ Minha página no medium: https://lisa-terumi.medium.com/
 
 #### Modelos treinados
 
-- [BioBERTpt](https://github.com/HAILab-PUCPR/BioBERTpt) *em parceria*
+- [BioBERTpt](https://github.com/HAILab-PUCPR/BioBERTpt) (*em parceria*)
 
 - [GPT2-Bio-pt](https://github.com/HAILab-PUCPR/gpt2-bio-pt)
 
-- [Word2vec COVID](https://github.com/HAILab-PUCPR/Word2Vec-COVID19-Twitter) *em parceria*
+- [Word2vec COVID](https://github.com/HAILab-PUCPR/Word2Vec-COVID19-Twitter) (*em parceria*)
 
 #### Tutoriais em Python
 
