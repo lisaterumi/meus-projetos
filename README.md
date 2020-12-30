@@ -22,9 +22,9 @@ Minha página no medium: https://lisa-terumi.medium.com/
 
 #### Modelos treinados
 
-- [BioBERTpt](https://github.com/HAILab-PUCPR/BioBERTpt) (*em parceria*)
-
 - [GPT2-Bio-pt](https://github.com/HAILab-PUCPR/gpt2-bio-pt)
+
+- [BioBERTpt](https://github.com/HAILab-PUCPR/BioBERTpt) (*em parceria*)
 
 - [Word2vec COVID](https://github.com/HAILab-PUCPR/Word2Vec-COVID19-Twitter) (*em parceria*)
 
@@ -39,6 +39,10 @@ Minha página no medium: https://lisa-terumi.medium.com/
 - [Expressões regulares] *breve*
 
 - [Tradutor inglês-português] *breve*
+
+- [Pandas, numpy] *breve*
+
+- [Gensim, nltk, sklearn] *breve*
 
 #### Outros tutoriais
 
