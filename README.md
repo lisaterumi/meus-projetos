@@ -52,4 +52,4 @@ Minha página no medium: https://lisa-terumi.medium.com/
 
 - [Comados Docker] *breve*
 
-- [Linguagem markdown] **breve**
+- [Linguagem markdown](https://github.com/lisaterumi/tutorial-markdown)
