@@ -20,7 +20,7 @@ Minha página no medium: https://lisa-terumi.medium.com/
 
 - [ASCII Generator](https://github.com/lisaterumi/Python-ASCII-Art-Generator)
 
-#### Modelos treinados
+#### Modelos treinados - Word Embeddings e Modelos de Linguagem
 
 - [GPT2-Bio-pt](https://github.com/HAILab-PUCPR/gpt2-bio-pt)
 
