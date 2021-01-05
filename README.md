@@ -62,3 +62,10 @@ Minha página no medium: https://lisa-terumi.medium.com/
 [comment]: <> ( - - [Comados Docker] *breve*)
 
 - [Linguagem markdown](https://github.com/lisaterumi/tutorial-markdown)
+
+
+# Artigos científicos publicados
+
+[BioBERTpt - A Portuguese Neural Language Model for Clinical Named Entity Recognition](https://www.aclweb.org/anthology/2020.clinicalnlp-1.7/)
+
+[ProClaT, a new bioinformatics tool for in silico protein reclassification: case study of DraB, a protein coded from the draTGB operon in Azospirillum brasilense](https://pubmed.ncbi.nlm.nih.gov/28105917/)
