@@ -37,6 +37,8 @@ Minha página no medium: https://lisa-terumi.medium.com/
 
 - [ASCII Generator](https://github.com/lisaterumi/Python-ASCII-Art-Generator)
 
+- [Nuvem de Palavras com Python](https://github.com/lisaterumi/nuvem-palavras-python)
+
 #### Tutoriais em Python
 
 - [Matplotlib](https://github.com/lisaterumi/tutorial_matplotlib)
