@@ -41,6 +41,8 @@ Minha página no medium: https://lisa-terumi.medium.com/
 
 #### Tutoriais em Python
 
+- [Similaridade entre Strings](https://github.com/lisaterumi/similaridade-string-python)
+
 - [Matplotlib](https://github.com/lisaterumi/tutorial_matplotlib)
 
 - [Introdução BERT](https://github.com/HAILab-PUCPR/introducao-bert)
