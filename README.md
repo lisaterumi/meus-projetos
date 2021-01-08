@@ -47,7 +47,7 @@ Minha página no medium: https://lisa-terumi.medium.com/
 
 - [Reconhecimento facial](https://github.com/lisaterumi/reconhecimento-facial-python)
 
-[comment]: <> ( - [Expressões regulares] *breve*)
+[comment]: <> ( - [Expressões regulares] *breve* )
 
 [comment]: <> ( - - [Tradutor inglês-português] *breve*)
 
@@ -62,6 +62,8 @@ Minha página no medium: https://lisa-terumi.medium.com/
 [comment]: <> ( - - [Comados GIT] *breve*)
 
 [comment]: <> ( - - [Comados Docker] *breve*)
+
+[comment]: <> ( - - https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners/comments#257523)
 
 - [Linguagem markdown](https://github.com/lisaterumi/tutorial-markdown)
 
