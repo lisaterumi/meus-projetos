@@ -72,8 +72,11 @@ Minha página no medium: https://lisa-terumi.medium.com/
 
 # Artigos científicos publicados
 
+[A GPT-2 Language Model for Biomedical Texts in Portuguese](https://ieeexplore.ieee.org/document/9474713)
+
 [BioBERTpt - A Portuguese Neural Language Model for Clinical Named Entity Recognition](https://www.aclweb.org/anthology/2020.clinicalnlp-1.7/)
 
 [ProClaT, a new bioinformatics tool for in silico protein reclassification: case study of DraB, a protein coded from the draTGB operon in Azospirillum brasilense](https://pubmed.ncbi.nlm.nih.gov/28105917/)
 
 <a href="https://www.buymeacoffee.com/lisaterumi"><img src="https://github.com/lisaterumi/lisaterumi/blob/main/bymeacoffe_link.png" alt="By me a coffe"/></a>
+
